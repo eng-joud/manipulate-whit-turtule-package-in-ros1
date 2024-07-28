@@ -1,0 +1,4 @@
+mkdir -p ~/catkin_ws/src/turtle_mover/scripts
+cd ~/catkin_ws/src/turtle_mover/scripts
+touch move_turtle.py
+chmod +x move_turtle.py
