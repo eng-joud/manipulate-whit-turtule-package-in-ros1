@@ -1,0 +1,8 @@
+terminal 2
+rosrun turtlesim turtlesim_node
+
+terminal 3
+cd ~/catkin_ws
+source devel/setup.bash
+rosrun turtle_mover move_turtle.py
+
